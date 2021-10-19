@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include<limits.h>
+#include <limits.h>
 
 int maxProfit(int* prices, int pricesSize){
     
